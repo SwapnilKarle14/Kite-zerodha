@@ -70,4 +70,9 @@ public class LoginPageTest {
 	public void closeBrowser() {
 	//	driver.close();
 	}
+	@Test
+	public void Demo() {
+		System.out.println("New demo test added");
+	
+	}
 }
